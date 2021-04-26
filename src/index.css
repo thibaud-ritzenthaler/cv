@@ -1,0 +1,12 @@
+body {
+  background: #394b59;
+  margin: 0;
+  font-family: 'Rubik', 'Ubuntu', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
